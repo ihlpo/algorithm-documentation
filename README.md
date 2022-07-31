@@ -7,5 +7,5 @@ This site uses https://docsify.js.org/#/
 Testing Locally:
 
 ```
-docsify serve docs
+npx docsify serve docs
 ```
