@@ -1,6 +1,5 @@
 # The Dutch National Flag Problem
 
-
 **Question**
 Write a program that takes an array A and an index i into A
 ```python

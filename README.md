@@ -4,8 +4,21 @@ This a repo for the Algorithm Documentation Site
 
 This site uses https://docsify.js.org/#/
 
-Testing Locally:
-
+Install docsify
 ```
-npx docsify serve docs
+npm i docsify-cli -g
+```
+Initialize
+```
+docsify init ./docs
+```
+Testing Locally:
+```
+docsify serve docs
+```
+Firebase
+```
+firebase init
+
+firebase deploy
 ```
